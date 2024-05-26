@@ -175,7 +175,8 @@ class _SkillPageState extends State<SkillPage> {
                       fontWeight: FontWeight.bold),
                 ),
               ],
-            )),
+            ),
+        ),
       ),
     );
   }
